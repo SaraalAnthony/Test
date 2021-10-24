@@ -1,8 +1,4 @@
 --select * from ACS_ADGN0.CA_PRIORITYACCTS_BASELINE_CALC_DBG
---
---where
---
---dom_buy_grp = 'DB000P15'
 
 select * from ACS_ADGN0.CA_PRIORITYACCTS_BASELINE_CALC
 
