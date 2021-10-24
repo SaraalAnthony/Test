@@ -6,4 +6,12 @@ where
 
 TOP300_FLG = 1
 
-AND IBM_GBL_IOT_DSCR = 'APAC'
+Hello
+
+
+Anime
+Manga
+m
+TV
+kings
+pop
